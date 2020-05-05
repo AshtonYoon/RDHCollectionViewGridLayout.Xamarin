@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RDHCollectionViewGridLayoutBinding.Xamarin/ApiDefinition.cs">
+    <Files>
+      <File FileName="RDHCollectionViewGridLayoutBinding.Xamarin/libRDHCollectionViewGridLayoutBindingUniversal.linkwith.cs" Line="1" Column="1" />
+      <File FileName="RDHCollectionViewGridLayoutBinding.Xamarin/ApiDefinition.cs" Line="41" Column="41" />
+      <File FileName="RDHCollectionViewGridLayoutBinding.Xamarin/Structs.cs" />
+      <File FileName="RDHCollectionViewGridLayoutBinding.Xamarin/obj/Debug/ios/RDHCollectionViewGridLayout_RDHCollectionViewGridLayout_Deprecated.g.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RDHCollectionViewGridLayoutBinding.Xamarin" expanded="True">
+            <Node name="RDHCollectionViewGridLayoutBinding.Xamarin" expanded="True">
+              <Node name="ApiDefinition.cs" selected="True" />
+              <Node name="libRDHCollectionViewGridLayoutBindingUniversal.a" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

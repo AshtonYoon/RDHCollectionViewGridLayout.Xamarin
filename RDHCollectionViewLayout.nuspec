@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>RDHCollectionViewGridLayout</id>
+    <version>1.0.0</version>
+    <authors>ashton</authors>
+    <owners>ashton</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/AshtonYoon/RDHCollectionViewGridLayout.Xamarin</projectUrl>
+    <!--<iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>-->
+    <description>Based on https://github.com/rhodgkins/RDHCollectionViewGridLayout</description>
+    <releaseNotes>1.0.0</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1"></group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src=".\RDHCollectionViewGridLayoutBinding.Xamarin\bin\Release\RDHCollectionViewGridLayoutBinding.dll" target="lib\netstandard2.1"></file>
+  </files>
+</package>

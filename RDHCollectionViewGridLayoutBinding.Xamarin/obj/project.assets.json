@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": []
+  },
+  "packageFolders": {
+    "/Users/ashton/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ashton/Projects/RDHCollectionViewGridLayoutBinding.Xamarin/RDHCollectionViewGridLayoutBinding.Xamarin/RDHCollectionViewGridLayoutBinding.Xamarin.csproj",
+      "projectName": "RDHCollectionViewGridLayoutBinding",
+      "projectPath": "/Users/ashton/Projects/RDHCollectionViewGridLayoutBinding.Xamarin/RDHCollectionViewGridLayoutBinding.Xamarin/RDHCollectionViewGridLayoutBinding.Xamarin.csproj",
+      "packagesPath": "/Users/ashton/.nuget/packages/",
+      "outputPath": "/Users/ashton/Projects/RDHCollectionViewGridLayoutBinding.Xamarin/RDHCollectionViewGridLayoutBinding.Xamarin/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/ashton/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "/Users/ashton/Projects/BDKCollectionIndexView.Xamarin/BDKCollectionIndexView.Xamarin": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {}
+    }
+  }
+}
